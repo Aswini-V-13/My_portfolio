@@ -17,8 +17,8 @@ function Projects() {
         "JWT",
         "SQLite"
       ],
-      github: null,
-      linkedin: null
+      github: "https://github.com/Aswini-V-13/CyberSecurity_Attack_simulation_Platform",
+      linkedin:"https://lnkd.in/p/grHVvzxx"
     },
     {
       title: "Kartl",
